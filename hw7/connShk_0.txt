@@ -1,0 +1,64 @@
+gggggggg        **gggggggggg********     gggggggggggg       *  *
+g******g         ************ * g*  gg   gg*********gg        * 
+g******g        g *gg****gg*  *gg****g    g**********g      **  
+g******g        * * g**g** *******g       g**********gg     *   
+g******g         ** **** **    g*g * *    g***********gg   *    
+g******g         *  *  ** *     *   *     g************g  *     
+g******g           g* *  g*gggg    ****   g************gg       
+g*ggg**g           g*** gg****gggg        g*************g       
+g*g g**g            *  **********gg       g*************g       
+g*  g**g                 *gg******gg      g**ggg******gg        
+**  g**g                 * g*******ggg    g**g gg*****g         
+*   g**g                 * g*********gg   g**g  gg***g         *
+    g**g               gg*gg**********g   g**g   g***g        g*
+    g**g               g**************gg  g**g   gg*g        gg*
+    g**g        *     ***gg************gg gg*g    g*        gg**
+    g**g        *    ** * g*************gg g*g  ggg*g       g**g
+    g**g        *    *   gg**************g g*g gg***g      gg**g
+    g**g        *       gg***************ggg*ggg****g     gg***g
+    g**g       g*      gg**************************g      g****g
+    g**g       g*   * ***************************g**     gg****g
+    g**g       g*g   ** g************************g *     g*****g
+    g**g       g*gg  * ***gg*gg*gg*ggg*********g*g      gg*****g
+    g**g       g****  * **g * gg  *  g*******g*g  *     g******g
+    g**g       gg*g  *** *          gg*****g*g   *     gg******g
+    g**g        g*g *  ***         gg****g*g  ***      g*******g
+    g**g        g***   *           g*****g   ***      gg*******g
+    g**g         *  *  *          gg*****gg   *       gg*******g
+    g**g         *   *      *    gg*******g  *       * g*******g
+    g**g         *              gg********g          *gg*******g
+    g**g         *  *          gg*********g          **********g
+    g**g          g           gg**ggg*******  *     gg*********g
+    g**g        * *          gg**g  gg***gg   *     g**********g
+    g**g       ***           g**     g*g*g    *     g**********g
+    g**g      g** *        gg**   *  g*g  g   *    gg**********g
+    g**g      gg           g** *  **g *g  *   *    g***********g
+    g**g    **  *    *     ** g*g  *g *ggg    *    g***********g
+    g**g     *      **    **  g*ggg*gg***g    *   gg***********g
+    g**g   *              *   g**********gg   *   g************g
+    g**g   *    *     *  **  *******g g***g    *  g************g
+    g**g   *             *    g*****g gg**g    * gg************g
+    g**g      * *      **     g****g * g*g     * g*************g
+    g**g               *      g****gg* g*g     * g*************g
+    g**g         *   * *     gg*******gg*g     * g*************g
+    g**g         *  **       ggg*gggg****      *gg*************g
+    g**g  *      * **          g*g    * *      ********ggg*****g
+    g**g       *  *  *         g*gg  g*g       g*******g g*****g
+    g**g            *           **gggg*g       g*******g g*****g
+    g**g        *                ******        g*******g g*****g
+    g**g                          g***g        **ggggg*g g***gg 
+    gg***      g   **          ***g***gg       *     gg gg***g  
+*    g*g *     *    *            ******ggg     *ggg     g**gg   
+**   g*gg          g             g*******ggg   ***ggg   g**g    
+ **  g**g          *             g*********g   g****g  gg*g     
+  *  g*g            * g        ggg*********gg  g****g  g**g     
+  *  g***    *        *        g************gg g***g **g*g      
+  *  g*g           ***         g*************g g***gg ***g      
+  *  g*gg                   *  g*************g gg***g g**g      
+  *g g**g            g*        g*************g  ggg*ggg*g       
+  *g g*g          *           gg*************gg    *****g       
+  *g g*g                      g***************g      g*g        
+  *g g*g            *        gg***************g      **g        
+  *g g*g                     gg***************gg     *          
+  *g g*g                    * g****************g                
+  *g g*g        *            ***gggggggggggggg*g                
